@@ -1,0 +1,3 @@
+Aplicações Go são divididas em pacotes. Podemos considerar os pacotes como um conjunto de funções, estruturas, interfaces e outros componentes que buscam realizar uma determinada ação ou fornecer uma funcionalidade. Os pacotes em go foram desenvolvidos com o objetivo de promover a organização e o reuso.
+
+Quando criamos arquivo Go precisamos informar a qual pacote ele pertence, para fazer isso usamos a palavra-chave "package" seguido pelo nome do pacote. É importante lembrar que todo programa em go deve ter um pacote main, seguido da função main.
