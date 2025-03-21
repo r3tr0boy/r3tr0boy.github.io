@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://cdn.discordapp.com/avatars/1306374238734909482/69606828bb391cd579b0fc66137a9917.png?size=2048
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
+#linkedin: mylinkedin
+github: r3tr0boy
+#email: myemail@gmail.com
 
 authors:
   johndoe:
